@@ -1,0 +1,12 @@
+Using OSINT tools : SPIDERFOOT
+Spiderfoot is an automated OSINT scanner. It has an easy to use GUI. It seeds its scan with the following:
+Domain names
+Ip addresses
+Subnet addresses
+Autonomous System number s
+
+Types of scan include 
+All
+footprint
+investigate
+passive
